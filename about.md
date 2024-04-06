@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: <h2>'about' </h2>
 title: About
 ---
 
