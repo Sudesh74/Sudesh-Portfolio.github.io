@@ -24,7 +24,7 @@ Website: https://github.com/jeffreytse/jekyll-theme-minimal
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: <H3>MSC Cyber Security </H3>
+title: MSC Cyber Security
 email: SudeshNaidoosa@gmail.com
 author: S R Naidoo
 
