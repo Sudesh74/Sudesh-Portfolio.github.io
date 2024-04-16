@@ -46,8 +46,8 @@ copyright: "Unpublished Work (cleft) 2017-{2024} {S Naidoo}"
 description: >- 
   This is a portfolio for Sudesh Naidoo - MSC Cyber Security course from Essex University.
 
-baseurl: "https://sudesh74.github.io/Sudesh-Portfolio.github.io/" # the subpath of your site, e.g. /blog
-url: "https://sudesh74.github.io/Sudesh-Portfolio.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "https://sudesh74.github.io/Sudesh-Portfolio.github.io/"
+url: "https://sudesh74.github.io/Sudesh-Portfolio.github.io/" 
 favicon: "cyber2.jpeg"
 
 # Yat date format
