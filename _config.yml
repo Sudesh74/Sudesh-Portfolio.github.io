@@ -28,12 +28,6 @@ title: <H3>MSC Cyber Security </H3>
 email: SudeshNaidoosa@gmail.com
 author: S R Naidoo
 
-Welcome to My Home Page
-
-{% assign date = '2020-04-13T10:20:00Z' %}
-
-- Original date - {{ date }}
-- With timeago filter - {{ date | timeago }}
 
 # Copyright setting
 # You can use any html code, currently below placeholders are available:
