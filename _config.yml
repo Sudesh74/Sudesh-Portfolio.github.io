@@ -46,7 +46,7 @@ copyright: "Unpublished Work (cleft) 2017-{2024} {S Naidoo}"
 description: >- 
   This is a portfolio for Sudesh Naidoo - MSC Cyber Security course from Essex University.
 
-baseurl: "https://sudesh74.github.io/Sudesh-Portfolio.github.io/"
+# baseurl: "https://sudesh74.github.io/Sudesh-Portfolio.github.io/"
 url: "https://sudesh74.github.io/Sudesh-Portfolio.github.io/" 
 favicon: "cyber2.jpeg"
 
@@ -56,7 +56,7 @@ yat:
   date_format: "%b %d, %Y"
 
 # If you want more debug log, you can set true
-# debug: false
+ debug: true
 
 # If you don't want transparent header, you can set false
 # header_transparent: true
