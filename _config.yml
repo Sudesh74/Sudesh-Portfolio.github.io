@@ -1,7 +1,7 @@
 # Welcome to Jekyll!
 #
 # About Theme
- #
+#
 # Yet another theme for elegant writers with modern flat style and beautiful
 #  night/dark mode.
 #
@@ -102,9 +102,9 @@ yat:
 
 # You can choose a theme color
 # Default theme colors as below:
-coolblack: #090a0b
-spacegrey: #353535
-snowwhite: #ffffff
+# coolblack: #090a0b
+# spacegrey: #353535
+# snowwhite: #ffffff
 #
 theme_color: snowwhite
 #
@@ -120,12 +120,12 @@ theme_color: snowwhite
 brand_color: orangered
 #
 # Custom color as below:
- brand_color: "#1a8e42"
+ # brand_color: "#1a8e42"
 
- Night/Dark mode
-Default mode is "auto", "auto" is for auto nightshift
- (19:00 - 07:00), "manual" is for manual toggle, and
-"on/off" is for default on/off.
+# Night/Dark mode
+# Default mode is "auto", "auto" is for auto nightshift
+# (19:00 - 07:00), "manual" is for manual toggle, and
+# "on/off" is for default on/off.
 #
 # Whatever the user's choice is, it will supersede the
 # default setting of the site and be kept during the
@@ -145,12 +145,12 @@ Default mode is "auto", "auto" is for auto nightshift
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
- header_pages:
-  - index.html
+# header_pages:
+#  - index.html
 #   - archives.html
 #   - categories.html
 #   - tags.html
-    _posts.md
+#    _posts.md
 
 # Page default value
 # defaults:
