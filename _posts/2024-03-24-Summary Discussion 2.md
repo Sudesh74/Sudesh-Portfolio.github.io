@@ -1,3 +1,13 @@
+
+---
+layout: post
+title: Summary Discussion 2
+subtitle: CVSS
+categories: Discussion
+# tags: [Python, intro, certificate]
+---
+
+
 <H1> Summary – discussion 2 CVSS </H1>
 
  <p>In summation, I do agree with all the points addressed by  J.Spring. et al. 2021 article, but the alternative solutions mentioned are not as easily interrupted and may require further analysis such as SVSS.  Keeping the issues highlighted by J. Spring et al, 2021 and other version issues identified (Wikipedia, n.d), such as complexities of using libraries, web vulnerabilities and varied interruptions of score and limitations of scoring IOT, should be kept in mind when completing a risk assessment as this helps assess the residual risk and improve the compensating controls that can be implemented. As not all these issues may be relevant to the environment being assessed or the risk appetite may be lower for certain vulnerabilities identified. 
