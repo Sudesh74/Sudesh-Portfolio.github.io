@@ -4,7 +4,6 @@ layout: post
 title: Summary Discussion 2
 subtitle: CVSS
 categories: Discussion
-# tags: [Python, intro, certificate]
 ---
 
 
