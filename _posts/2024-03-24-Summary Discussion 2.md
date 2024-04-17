@@ -1,9 +1,9 @@
 
 ---
 layout: post
-title: Summary Discussion 2
-subtitle: CVSS
-categories: Discussion
+# title: Summary Discussion 2
+# subtitle: CVSS
+# categories: Discussion
 ---
 
 
