@@ -1,4 +1,4 @@
-GDPR case study: Case Study 1 : Prosecution of Guerin Media Limited 
+Unit 5 -GDPR case study: Case Study 1 : Prosecution of Guerin Media Limited 
 <!DOCTYPE html>
 <html>
 <head>
