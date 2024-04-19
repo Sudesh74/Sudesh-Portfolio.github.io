@@ -15,7 +15,7 @@ The below Attack tree shows that currently the systems used are at risk and requ
 
 Diagram 1 (VisualParadigm. n.d.)
 ![image](https://sudesh74.github.io/assets/images/banners/cyber1.jpg) 
-![assignmentfile](https://sudesh74.github.io/assets/images/banners/Final Assignment1 - Group 2.pdf)
+![assignmentfile](https://sudesh74.github.io/assets/images/banners/FinalAssignment1-Group2.pdf)
 
 
 SWOT analysis
