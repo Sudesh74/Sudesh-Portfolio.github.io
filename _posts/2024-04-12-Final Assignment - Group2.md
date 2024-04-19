@@ -14,7 +14,8 @@ We propose all systems and applications be cloud based and a well-known cloud se
 The below Attack tree shows that currently the systems used are at risk and required at minimum, access control, antivirus, data storage encryption, use of outdated software (may not support security patch updates).
 
 Diagram 1 (VisualParadigm. n.d.)
-![Javatpoint](HTTPS://Sudesh74.github.io/_posts/Unit4SeminarThreatmodel.jpg) 
+![image](https://sudesh74.github.io/assets/images/banners/cyber1.jpg) 
+
 
 
 SWOT analysis
